@@ -1,1 +1,2 @@
 hello world
+add a new line for testing if git config info is changed
