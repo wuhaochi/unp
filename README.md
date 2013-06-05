@@ -1,8 +1,11 @@
-gittest
-=======
+Unix Network Programming Practice Codes
 
-learngit
+    unix network programming learning example codes
 
-you need to install glog before compiling the source code.
+Pre-requirements:
+    you need to install glog before compiling the source code.
 
-
+How to compile:
+	install glog,
+	place unp.h under header search path
+	compile with -lglog
